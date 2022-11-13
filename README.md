@@ -6,3 +6,6 @@ PyTiers is a python package that allows you to read, write, manipulate, and visu
 ```
 pip install pytiers
 ```
+
+## Demo
+See [the demonstration](PyTiers_demonstration).
